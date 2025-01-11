@@ -1,6 +1,7 @@
 
 .image-wrapper {
-  width: 100%x;
+  width: 50%;
+  height: auto;
   padding: 0;
   border-radius: 10px;
   overflow: hidden;

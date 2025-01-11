@@ -7,16 +7,39 @@ h1, h2 {
 
 #content {
   width: calc(100% - 30px);
-  margin: 10px;080;
+  margin: 10px,080;
   padding: 10px;
-  border: solid 1px #808;
+  border: solid 1px #A5E0E1;
   font-family: sans-serif;
+  color: #A5E0E1;
+  background-color: #2B201E;
+}
+
+#body {
+  background-color: #A5E0E1;
+}
+
+/* Learned how to style links using this tutorial on W3Schools: https://www.w3schools.com/css/css_link.asp*/
+a:link {
+  color: #7BC1B3
+}
+
+a:visited {
+  color: #6C8EC8
+}
+
+a:hover {
+  color: #A1DBCF
+}
+
+a:active {
+  color: #ffffff
 }
 
 .minor-section {
   margin: 10px;
   padding: 10px;
-  border: solid 1px #A0A0A0;
+  border: solid 1px #A5E0E1;
   border-radius: 10px;
 }
 
